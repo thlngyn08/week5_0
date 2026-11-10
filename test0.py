@@ -1,4 +1,4 @@
 def add(a,b): 
     return a+b
-print(number)
+print("Hello world")
 print("Answer:", add(5,3))
